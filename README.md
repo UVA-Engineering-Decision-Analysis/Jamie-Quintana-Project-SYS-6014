@@ -1,6 +1,6 @@
 # Jamie-Quintana-Project-SYS-6014
 
-Project name: The Project name is Optimizing bitcoin purchases, which is the best date to buy bitcoins?
+Project name: The Project name is Optimizing bitcoin purchases, which is the best day to buy bitcoins?
 
 Description: This project topic is concerned with crypto currencies (like Bitcoin), and when it might be the best (or optimal) time to buy (i.e. buy currency on a day the price will likely go up vice down). Unlike stocks, crypto currency prices change based on various factors and is tracked everyday. The focus here is to take the historical data (which is readily available) draw the line say at the end of Dec 31, 2019, and calculate probabilities for each day – Monday-Sunday to determine if one or more days are preferred to buy than another (calculate utility/loss functions for each, which will drive the decision to buy (or not).
 
